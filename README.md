@@ -1,7 +1,7 @@
-  # BIOACCESS-APS6
+  # BIOACCESS
 Este projeto foi elaborado como parte da Atividade Prática Supervisionada (APS) do sexto semestre do curso de Ciência da Computação.
 
-# RELATÓRIO TÉCNICO — PROJETO “BIOACCESS APS”
+# RELATÓRIO TÉCNICO — PROJETO “BIOACCESS”
 
 ## 1. Introdução
 
